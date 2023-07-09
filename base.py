@@ -1,4 +1,4 @@
 # print_list function
-def print_list(the_list):
-    for l in the_list:
+def print_list(lst):
+    for l in lst:
         print(l)
