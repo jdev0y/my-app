@@ -1,4 +1,4 @@
 # print_list function
-def print_list(lst):
+def print_lis(lst):
     for l in lst:
         print(l)
