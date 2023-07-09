@@ -10,3 +10,5 @@ ask_user2 = int(input("choose another number"))
 
 #this is the function call
 add_num(ask_user, ask_user2)
+
+print("This is the first print with the new branch")
